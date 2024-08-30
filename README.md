@@ -6,8 +6,6 @@ Condiciones:
 - Incluir pruebas para las operaciones de Create, Update* y Get. Escenarios happy path y alternos.
 - tener en cuenta el header ‘Cookie’.
 
-Se automatizaron los siguientes escenarios:
-
 ## Escenarios probados
 
 Escenario 1: Se creó una reserva con información válida y se verificó la respuesta de la petición
